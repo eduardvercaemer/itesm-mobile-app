@@ -1,4 +1,4 @@
-package state
+package xyz.vercaemer.app.state
 
 data class State<T, E>(
     val name: Name,

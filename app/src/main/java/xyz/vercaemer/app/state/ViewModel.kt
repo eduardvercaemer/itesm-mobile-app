@@ -1,4 +1,4 @@
-package state
+package xyz.vercaemer.app.state
 
 abstract class ViewModel {
 

@@ -1,4 +1,4 @@
-package state
+package xyz.vercaemer.app.state
 
 interface Dispatcher {
     fun dispatch(execute: () -> Unit, error: (Throwable) -> Unit)
